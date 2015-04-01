@@ -1,2 +1,2 @@
 # BMI-Rechner
-ein Mini-Projekt für einen BMI-Rechner
+Ein simpler BMI-Rechner als packaged app für Chrome
